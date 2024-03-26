@@ -1,0 +1,80 @@
+[
+    {
+        "nombre": "Pozos",
+        "descripcion": "200 pozos",
+        "img": "/logo_abg.png",
+        "url": "/pozos"
+    },
+    {
+        "nombre": "Bombas",
+        "descripcion": "200 bombas",
+        "img": "/logo_abg.png",
+        "url": "/bombas"
+    },
+    {
+        "nombre": "Tanques",
+        "descripcion": "200 tanques",
+        "img": "/logo_abg.png",
+        "url": "/tanques"
+    },
+    {
+        "nombre": "Válvulas",
+        "descripcion": "200 válvulas",
+        "img": "/logo_abg.png",
+        "url": "/valvulas"
+    },
+    {
+        "nombre": "Tuberías",
+        "descripcion": "200 tuberías",
+        "img": "/logo_abg.png",
+        "url": "/tuberias"
+    },
+    {
+        "nombre": "Filtros",
+        "descripcion": "200 filtros",
+        "img": "/logo_abg.png",
+        "url": "/filtros"
+    },
+    {
+        "nombre": "Cloradores",
+        "descripcion": "200 cloradores",
+        "img": "/logo_abg.png",
+        "url": "/cloradores"
+    },
+    {
+        "nombre": "Cámaras",
+        "descripcion": "200 cámaras",
+        "img": "/logo_abg.png",
+        "url": "/camaras"
+    },
+    {
+        "nombre": "Cisternas",
+        "descripcion": "200 cisternas",
+        "img": "/logo_abg.png",
+        "url": "/cisternas"
+    },
+    {
+        "nombre": "Casetas",
+        "descripcion": "200 casetas",
+        "img": "/logo_abg.png",
+        "url": "/casetas"
+    },
+    {
+        "nombre": "Cárcamos",
+        "descripcion": "200 cárcamos",
+        "img": "/logo_abg.png",
+        "url": "/carcamo"
+    },
+    {
+        "nombre": "Canales",
+        "descripcion": "200 canales",
+        "img": "/logo_abg.png",
+        "url": "/canales"
+    },
+    {
+        "nombre": "Biodigestores",
+        "descripcion": "200 biodigestores",
+        "img": "/logo_abg.png",
+        "url": "/biodigestores"
+    }
+]
